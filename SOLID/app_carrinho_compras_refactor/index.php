@@ -7,14 +7,15 @@ use src\CarrinhoCompra;
 
 $carrinho1 = new CarrinhoCompra();
 
+/*
 print_r($carrinho1->exibirItens());
 echo 'Valor total: '.$carrinho1->exibirValorTotal();
 
-/*
+
 $carrinho1->adicionarItem('Bicicleta', 750.10);
 $carrinho1->adicionarItem('Galadeira', 1950.15);
 $carrinho1->adicionarItem('Tapete', 350.20);
-*/
+
 
 echo "<br />";
 print_r($carrinho1->exibirItens());
@@ -34,3 +35,4 @@ if($carrinho1->confirmarPedido()) {
 }
 echo "<br />";
 echo 'status: '.$carrinho1->exibirStatus();
+*/
