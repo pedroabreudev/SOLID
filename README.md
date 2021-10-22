@@ -24,4 +24,6 @@ O que você aprenderá
 
  _____
  
- Seção 1: Introdução
+Seção 1: Introdução
+
+Seção 2: SRP - Single Responsibility Principle (Princípio da Responsabilidade Única)
